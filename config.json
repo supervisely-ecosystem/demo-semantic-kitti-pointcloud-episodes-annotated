@@ -1,0 +1,13 @@
+{
+    "name": "Demo SemanticKITTI Point Cloud Episodes Annotated",
+    "description": "Annotated sample project with SemanticKITTI point cloud episodes featuring semantic segmentation of urban driving scenes with cars, roads, buildings, and vegetation.",
+    "type": "project",
+    "categories": [
+        "import",
+        "point-clouds",
+        "episodes",
+        "project"
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/demo-semantic-kitti-pointcloud-episodes-annotated/releases/download/v1.0.0/icon.png",
+    "icon_cover": true
+}
