@@ -1,0 +1,185 @@
+{
+    "classes": [
+        {
+            "title": "unlabeled",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#000000",
+            "geometry_config": {},
+            "id": 196795,
+            "hotkey": ""
+        },
+        {
+            "title": "outlier",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FF0000",
+            "geometry_config": {},
+            "id": 196796,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#6496F5",
+            "geometry_config": {},
+            "id": 196797,
+            "hotkey": ""
+        },
+        {
+            "title": "other-vehicle",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#0000FF",
+            "geometry_config": {},
+            "id": 196798,
+            "hotkey": ""
+        },
+        {
+            "title": "road",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FF00FF",
+            "geometry_config": {},
+            "id": 196799,
+            "hotkey": ""
+        },
+        {
+            "title": "parking",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FF96FF",
+            "geometry_config": {},
+            "id": 196800,
+            "hotkey": ""
+        },
+        {
+            "title": "sidewalk",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#4B004B",
+            "geometry_config": {},
+            "id": 196801,
+            "hotkey": ""
+        },
+        {
+            "title": "building",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FFC800",
+            "geometry_config": {},
+            "id": 196802,
+            "hotkey": ""
+        },
+        {
+            "title": "fence",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FF7832",
+            "geometry_config": {},
+            "id": 196803,
+            "hotkey": ""
+        },
+        {
+            "title": "other-structure",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FF9600",
+            "geometry_config": {},
+            "id": 196804,
+            "hotkey": ""
+        },
+        {
+            "title": "lane-marking",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#96FFAA",
+            "geometry_config": {},
+            "id": 196805,
+            "hotkey": ""
+        },
+        {
+            "title": "vegetation",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#00AF00",
+            "geometry_config": {},
+            "id": 196806,
+            "hotkey": ""
+        },
+        {
+            "title": "trunk",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#873C00",
+            "geometry_config": {},
+            "id": 196807,
+            "hotkey": ""
+        },
+        {
+            "title": "terrain",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#96F050",
+            "geometry_config": {},
+            "id": 196808,
+            "hotkey": ""
+        },
+        {
+            "title": "pole",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FFF096",
+            "geometry_config": {},
+            "id": 196809,
+            "hotkey": ""
+        },
+        {
+            "title": "traffic-sign",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FF0000",
+            "geometry_config": {},
+            "id": 196810,
+            "hotkey": ""
+        },
+        {
+            "title": "other-object",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#32FFFF",
+            "geometry_config": {},
+            "id": 196811,
+            "hotkey": ""
+        },
+        {
+            "title": "moving-person",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#FF1E1E",
+            "geometry_config": {},
+            "id": 196812,
+            "hotkey": ""
+        },
+        {
+            "title": "moving-motorcyclist",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#961E5A",
+            "geometry_config": {},
+            "id": 196813,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_cloud_episodes",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        }
+    }
+}
