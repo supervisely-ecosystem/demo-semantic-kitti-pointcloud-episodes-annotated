@@ -37,7 +37,7 @@ This type of annotated point cloud data is essential for autonomous driving and 
 - **Sensor Fusion** — combine LiDAR point clouds with camera data for robust perception systems
 - **Simulation and Testing** — validate perception algorithms on real-world annotated data before deployment
 
-In the [SemanticKITTI format documentation](https://docs.supervisely.com/import-and-export/import/supported-annotation-formats/pointcloud_episodes/semantickitti), you can find detailed information about dataset structure, supported formats, import/export options, and best practices for working with SemanticKITTI data in Supervisely.
+In the [SemanticKITTI format documentation](https://docs.supervisely.com/import-and-export/import/supported-annotation-formats/pointcloud_episodes/semantic-kitti), you can find detailed information about dataset structure, supported formats, import/export options, and best practices for working with SemanticKITTI data in Supervisely.
 
 ## License and Citation
 
